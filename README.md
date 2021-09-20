@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Girishiith
+- 👋 Hi, I’m @Girishiith,
      My name is Girish Verma from Indian Institute of technology, Hyderabad.
 - 👀 I’m interested in AI ( machine learning and deep learning algorithms)
 - 🌱 I’m currently learning machine leanrning and deep learning.
